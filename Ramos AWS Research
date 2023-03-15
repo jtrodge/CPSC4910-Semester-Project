@@ -1,0 +1,16 @@
+//Cole Ramos
+//Notes for week
+//For debugger choices, I found solid python specific ones here, based on preference (https://www.comparitech.com/net-admin/best-python-debugging-tools/)
+//I will be using VSC most likely, but those above are seperated by free and paid and are good alternatives
+
+//AWS Research
+Will use as a running server for our users to connect to 
+
+//Understand how to start stop an instance
+Create: https://www.youtube.com/watch?v=YB_qanudIzA
+End: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/terminating-instances.html
+To end instance select shutting-down or terminated
+
+
+//How to connect program to AWS
+Using Linux: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-connect-set-up.html
