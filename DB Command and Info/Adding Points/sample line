@@ -1,0 +1,10 @@
+Here is how to increment an integer, as oppsed to changing the numerical value (i.e. 3+3 instead of 3 = 6)
+
+DECLARE @addvalue INT;  
+SET @addvalue = 15;  
+SELECT '125127' + @addvalue;
+
+Swap + with - to subtract
+
+this makes it much easier to link a prompt to a small script that increments or decrements the points by a designated value. 
+Add edge cases and restrict adding decimals/negatives and the point system should be set, with debugging of course 

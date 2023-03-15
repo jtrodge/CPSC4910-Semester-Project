@@ -1,0 +1,18 @@
+Welcome to your ec2 ssh crash course 
+This is written assuming you have created an instance and recorded the .pem instance
+    -  if not, re do class actibity
+
+Step 1: Go to your created running instance, using the class work instance here from last week 
+2: I cannot uplaod screenshot but write down the public ipv4 address
+    - sidenote: must have port 22 running as I have noted from testing
+3: From your terminal, go to the file location of your downloaded .pem file 
+    - mine was in desktop, so '$cd ~/Desktop' for example
+4: Make sure key is in read only by running the following:
+    $chmod 0400 <filename>.pem
+    *chmod 400 works too 
+5: You should then be able to connect
+    ssh -i <filename>.pem ec2-user@<public-ip from above>
+    for me, it looked like: ssh -i test.pem ec2-user@172.31.61.26
+6: if prompted, type yes to bypass conneciton question 
+
+You are then ssh'd into the EC2

@@ -1,0 +1,11 @@
+//A single-page application (SPA) is a web application or website that interacts
+//with the user by dynamically rewriting the current web page with new data from
+//the web server, instead of the default method of a web browser loading entire
+//new pages.
+
+//This is one of the methods of making the front end and the back end work together
+//for python users
+
+//Could use react as a use for our front end connection
+
+https://www.accordbox.com/blog/how-to-combine-frontend-and-backend-for-python-web-developers/

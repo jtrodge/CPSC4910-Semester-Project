@@ -1,0 +1,26 @@
+//Web accessibility is essentially ways or methods of making web content more accessible
+//to people with a wide array of disabilities. Accessibility can be broken down into
+//4 principles: perceivable, operable, understandable, robust. 
+
+//Perceivable refers to the user ability to perceive it using one or more of their senses
+
+//Operable refers to the user ability to control the UI elements of the content
+
+//Understandable refers to the content being able to be understood to the wide array of
+//people who might access or wish to access the content
+
+//Robust refers to the content having and using well-adopted web standards that works 
+//across many different browsers
+
+//One way of making text more perceivable is to have alternatives for them such as 
+//text-to-speech readers for the ui or if the web content displays information it could 
+//be summed up through a short video link hosted on the website.
+
+//Making sure that your website is operable is crucial to having well accessible content.
+//Things such as making sure that the user can be granted full keyboard control, and/or 
+//can use the keyboard in ways that allows efficient access and navigation to the site.
+//Make sure that the user is given enough time to understand and use the content. And Make
+//sure that there is nothing on the website that could possibly invoke seizures or cause 
+//any sort of physical website.
+
+https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_WCAG
