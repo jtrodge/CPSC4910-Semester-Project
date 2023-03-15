@@ -1,0 +1,11 @@
+// Craten Richardson
+
+//It appears that python itself has an automated testing system built into it and
+//is capable of performing both unit and integration testing.
+
+//Python has assert built into it and can be used to create test cases for any given
+//project. Assert results can be viewed in the REPL. If the assertion is correct 
+//then the test case is correct
+
+Create: https://realpython.com/python-testing/
+
